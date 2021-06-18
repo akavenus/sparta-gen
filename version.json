@@ -1,2 +1,2 @@
 
-{"Version":{"Version_Number":"0.1.2", "DL_Link": "https://github.com/akavenus/sparta-gen/releases/download/0.1.2/main.exe", "Setup_DL": "https://github.com/akavenus/sparta-gen/releases/download/0.1.2/setup.exe", "UA_file": "https://github.com/akavenus/sparta-gen/releases/download/0.1.2/ChromeUserAgent.txt"}}
+{"Version":{"Version_Number":"0.1.2", "DL_Link": "https://github.com/akavenus/sparta-gen/releases/download/0.1.2/main.exe", "Setup_DL": "https://github.com/akavenus/sparta-gen/releases/download/0.1.2/setup.exe", "UA_file": "https://github.com/akavenus/sparta-gen/releases/download/0.1.2/ChromeUserAgent.txt", "preloadjs": "https://github.com/akavenus/sparta-gen/releases/download/0.1.2/preload.js"}}
